@@ -57,6 +57,7 @@
 ![image](https://github.com/user-attachments/assets/e661c699-1cc5-43bb-b46f-58e963874cf6)
 
 • Появится ваша заполненная заполненная заявка, если все данные верны ```Нажимайте Оформить заказ ДА```
+
 ![image](https://github.com/user-attachments/assets/876b9d49-cb70-4a52-ad6d-6305d3745032)
 
 
